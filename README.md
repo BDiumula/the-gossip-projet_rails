@@ -1,24 +1,31 @@
-# README
+# The Gossip Project - Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mieux que Gossip Girl, ce super réseau social, va permettre de partager les potins de les chauds en toute discrétion!
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+### Prerequisites
 
-* System dependencies
+Ici nous utiliserons pour l'application la version de rails _5.2.3_
 
-* Configuration
 
-* Database creation
+### Installing
 
-* Database initialization
+N'oubliez pas d'éxécutez les commandes ci-dessous :
 
-* How to run the test suite
+```
+bundle install
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+```
+rails db:migrate
 
-* Deployment instructions
+```
+```
+rails db:seed
 
-* ...
+```
+
+## Authors
+
+* **Bénédicte Diumula** - *Moussaillonne THP* 
