@@ -15,15 +15,14 @@ N'oubliez pas d'éxécutez les commandes ci-dessous :
 
 ```
 bundle install
-
 ```
+
 ```
 rails db:migrate
-
 ```
+
 ```
 rails db:seed
-
 ```
 
 ## Authors
